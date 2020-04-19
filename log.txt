@@ -1,0 +1,2 @@
+2020/04/19 17:40:24 Purchased aapl stock at $445.0, since its higher that the current price ($282.84)
+2020/04/19 17:44:42 Purchased aapl stock at $445.0, since its higher that the current price ($282.84)
